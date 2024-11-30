@@ -1,0 +1,149 @@
+body {
+    color: rgb(255, 255, 255);
+    background: rgb(178, 142, 94);
+    margin: 0px;
+ 
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    font-family: "Tiny5", sans-serif;
+}
+.ashaphaedra{
+    justify-content: center;
+    display: flex;
+    background: rgb(225, 198, 145);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+section{
+    background: rgb(225, 198, 145);
+    padding-bottom: 0px;
+    padding-top: 0px;
+    justify-content: center;
+    display: flex;
+}
+.comissions{
+    background: rgb(178, 142, 94);
+    border-bottom: solid 2px rgb(255, 255, 255);
+    border-top: solid 2px rgb(255, 255, 255);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    }
+    .chamada-vídeo{
+        background: rgb(109, 60, 60);
+        display: flex;
+        border-bottom: solid 2px rgb(255, 255, 255);
+}
+.chamada-ficha1{
+      font-family: "Kode Mono", monospace;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+      padding-left: 10px;
+      padding-top: 40px;
+      color: rgb(255, 155, 162);
+      background: rgb(109, 60, 60);
+      border-bottom: solid 2px rgb(255, 255, 255);
+  }
+.chamada-video2{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    border-bottom: solid 2px rgb(255, 255, 255);
+    border-top: solid 2px rgb(255, 255, 255);
+
+}
+.chamada-ficha2{
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color: rgb(100, 153, 181);
+    color: rgb(252, 190, 150);
+    margin-top: 5%;
+    margin-bottom: 3%;
+    border-bottom: solid 2px rgb(255, 255, 255);
+    border-top: solid 2px rgb(255, 255, 255);
+}
+.chamada-video3{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    margin-bottom: 0%;
+    border-bottom: solid 2px rgb(255, 255, 255);
+    border-top: solid 2px rgb(255, 255, 255);
+}
+.chamada-ficha3{
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    background-color: rgb(104, 88, 89);
+    color: rgb(255, 255, 255);
+    margin-top: 3%;
+    margin-bottom: 0%;
+    border-bottom: solid 2px rgb(255, 255, 255);
+    border-top: solid 2px rgb(255, 255, 255);
+}
+.filmes{
+    background: rgb(178, 142, 94);
+    border-bottom: solid 2px rgb(255, 255, 255);
+    border-top: solid 2px rgb(255, 255, 255);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.chamada-ficha4{
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    background-color: rgb(6,28,62);
+    color: rgb(250, 40, 246);
+    margin-top: 0%;
+    margin-bottom: 3%;
+    border-bottom: solid 2px rgb(255, 255, 255);
+    border-top: solid 2px rgb(255, 255, 255);
+}
+.ficha{
+    color:white
+}
+.chamada-video4{
+    display: flex;
+    justify-content:center;
+    margin-top: 0%;
+    margin-bottom: 3%;
+    border-bottom: solid 2px rgb(255, 255, 255);
+    border-top: solid 2px rgb(255, 255, 255);
+}
+.animation{
+    color: white;
+}
+.Starting{
+    color: white;
+}
+.Conceptart{
+    color: white;
+}
